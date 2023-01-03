@@ -42,5 +42,11 @@
   .skills {
     text-align: center;
     margin: 10px;
-    color: orange;
+    color: black;
   }
+
+  .link:hover {
+        
+        margin-right: 0px;
+      }
+  
