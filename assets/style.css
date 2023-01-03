@@ -1,0 +1,46 @@
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 0 !important;
+}
+
+.navbar-brand {
+    width: -20px;
+    height: -20px;
+    padding-right: 15px;
+}
+
+.cardContainer {
+    margin-top: 20px;
+    margin-left: 0px;
+    padding: 0px;
+}
+
+.card {
+    margin: 0 auto;
+    
+  }
+
+.jumbotron {
+    background-image: url(../images/aboutme.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: calc(100vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+  }
+
+  .jumboCopy {
+    width: 40%;
+    min-width: 500px;
+    max-width: 700px;
+    color: orange;
+    text-align: center;
+  }
+
+  .skills {
+    text-align: center;
+    margin: 10px;
+    color: orange;
+  }
